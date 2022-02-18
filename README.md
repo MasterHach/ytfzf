@@ -1,4 +1,4 @@
-<p align="center"> lol
+<p align="center"> lul
     <a> <img src=.assets/logo.png></a>
     <br />
     <br />
