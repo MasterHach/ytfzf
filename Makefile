@@ -1,4 +1,4 @@
-PROG=ytfzf
+PROG=ytfzf 3
 
 UNAME := $(shell uname)
 ifeq ($(UNAME), Darwin)
