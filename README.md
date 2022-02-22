@@ -1,4 +1,4 @@
-<p align="center"> gg
+<p align="center"> kek
     <a> <img src=.assets/logo.png></a>
     <br />
     <br />
